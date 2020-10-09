@@ -1,1 +1,2 @@
 hi world
+some changes are maded in text1 as well
